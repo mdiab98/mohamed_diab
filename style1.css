@@ -183,7 +183,7 @@ h3 {
     color: #000;
 }
 .contact .info p{
-    font-size: 1.3em;
+    font-size: 1.2em;
     padding-right: 10px;
 }
 .footer {
@@ -194,7 +194,7 @@ h3 {
     justify-content: space-between;
 }
 .footer-title {
-    font-size: 1.3em;
+    font-size: 1em;
     font-weight: 600;
 }
 .footer-title span {
